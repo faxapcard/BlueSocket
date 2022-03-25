@@ -74,7 +74,7 @@ let libraryBuildInfo = BuildInfo(
                 dependencies: ["BlueSocketTestCommonLibrary", "ArgumentParser" ]
                ),
     ]
-)/*
+)*/
 
 var products: [Product] = [
     .library(
